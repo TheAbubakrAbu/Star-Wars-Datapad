@@ -4,6 +4,10 @@ The **Star Wars Datapad** app is an interactive web application built with JavaS
 
 **[Try the Star Wars Datapad Web App on Code.org](https://studio.code.org/projects/applab/3GTPl_9o0qf9zWutRclvLYYoJRopnjTmVTdm3cXHELc)**
 
+This was my **first coding project**, created as part of **AP Computer Science Principles** during my **sophomore (10th grade) year in Fall 2021**, when I had just begun learning programming. Initially known as **Aurebesh Translator**, it started as a simple demo and wasn’t fully functional. However, as I continued learning, I enhanced the app significantly—such as when I discovered **substrings**, enabling the translation features to work properly.
+
+I dedicated countless hours to this project every week, continually refining it through Spring and Summer 2022. It was not only my greatest coding project at the time but also my favorite, reflecting my love for **Star Wars**. This app ultimately inspired me to create the iOS app **Datapad | Aurebesh Translator** ([available on the App Store](https://apps.apple.com/us/app/datapad-aurebesh-translator/id6450498054?platform=iphone)).
+
 ## About the Project
 
 This app brings the Star Wars universe to life by providing a versatile datapad experience. Users can explore Aurebesh, the iconic writing system from Star Wars, translate between Aurebesh and English, and customize their experience with dynamic themes inspired by different Star Wars factions. It serves as both a functional utility and a fun, immersive tool for Star Wars enthusiasts. It inspired me to create **Datapad | Aurebesh Translator** on the Apple App Store today.
