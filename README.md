@@ -2,7 +2,7 @@
 
 The **Star Wars Datapad** app is an interactive web application built with JavaScript on Code.org. This project was inspired by **Star Wars** and was developed to simulate a fully functional datapad, complete with **Aurebesh translation**, **dynamic themes**, and interactive features. It combines creativity and technical skills to deliver an engaging experience for Star Wars fans.
 
-**Try the Star Wars Datapad app here:** [Star Wars Datapad on Code.org](https://studio.code.org/projects/applab/3GTPl_9o0qf9zWutRclvLYYoJRopnjTmVTdm3cXHELc)  
+**[Try the Star Wars Datapad Web App on Code.org](https://studio.code.org/projects/applab/3GTPl_9o0qf9zWutRclvLYYoJRopnjTmVTdm3cXHELc)**
 
 ## About the Project
 
